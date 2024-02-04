@@ -20,6 +20,26 @@
 
 ## I
 
+### initialize
+
+初始化。也常常被简写为init
+
+```bash
+git init # 初始化一个新的git项目
+npm init # 初始化一个新的Node.js项目
+```
+
+### install
+
+安装，设置
+
+```bash
+npm install -g @someone/package  # node全局安装
+pip3 install requests # 安装python的http库 requests
+```
+
+
+
 ## J
 
 ## K
@@ -40,15 +60,13 @@
 
 ## S
 
-## status
+### status
 
 状态，情况
 
 ```bash
 git status # 用来查看git当前工作区的状态
 ```
-
-
 
 ## T
 
