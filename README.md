@@ -8,6 +8,17 @@
 
 ## C
 
+### configuration
+
+配置，设置。常简写为config
+
+```bash
+git config --global http.proxy socks5://127.0.0.1:7890  # 设置git代理
+npm config list # 列出npm本地配置环境
+```
+
+
+
 ## D
 
 ## E
