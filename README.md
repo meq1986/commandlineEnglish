@@ -101,6 +101,17 @@ sudo apt update # 更新本地软件包列表
 
 ## V
 
+### version
+
+版本
+
+```bash
+python --version # 查看python版本
+git --version # 查看git版本
+```
+
+
+
 ## W
 
 ## X
