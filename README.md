@@ -6,6 +6,16 @@
 
 ## B
 
+### disable
+
+使无效，使不能运转
+
+```bash
+sudo systemctl disable my_service # 禁止服务开机启动
+```
+
+
+
 ## C
 
 ### configuration
@@ -22,6 +32,16 @@ npm config list # 列出npm本地配置环境
 ## D
 
 ## E
+
+### enable
+
+使可行，使能够
+
+```bash
+sudo systemctl enable my_service # 让服务开机自动启动
+```
+
+
 
 ## F
 
@@ -48,6 +68,15 @@ npm init # 初始化一个新的Node.js项目
 npm install -g @someone/package  # node全局安装
 pip3 install requests # 安装python的http库 requests
 ```
+
+### interval
+
+时间上的间隔，间隙
+
+```bash
+```
+
+
 
 
 
@@ -77,6 +106,7 @@ pip3 install requests # 安装python的http库 requests
 
 ```bash
 git status # 用来查看git当前工作区的状态
+systemctl status sshd # 查看SSH服务状态
 ```
 
 ## T
@@ -100,6 +130,14 @@ sudo apt update # 更新本地软件包列表
 ```
 
 ## V
+
+### verbose
+
+冗长的，啰嗦的。
+
+```bash
+curl --verbose http://example.com # 显示详细请求过程
+```
 
 ### version
 
